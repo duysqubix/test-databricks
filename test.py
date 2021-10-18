@@ -5,7 +5,3 @@
 
 # MAGIC %fs ls /mnt
 
-# COMMAND ----------
-
-x = 1
-print(x)
